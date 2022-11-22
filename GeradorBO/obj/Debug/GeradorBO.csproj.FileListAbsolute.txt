@@ -1,0 +1,98 @@
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\GeradorBO.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\GeradorBO.pdb
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\Banco.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\Library.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\Banco.pdb
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\Library.pdb
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\obj\Debug\GeradorBO.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\obj\Debug\GeradorBO.pdb
+D:\Sebastian\GenDAO\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+D:\Sebastian\GenDAO\GeradorBO\obj\Debug\GeradorBO.dll
+D:\Sebastian\GenDAO\GeradorBO\obj\Debug\GeradorBO.pdb
+D:\Sebastian\GenDAO\GeradorBO\bin\Debug\GeradorBO.dll
+D:\Sebastian\GenDAO\GeradorBO\bin\Debug\GeradorBO.pdb
+D:\Sebastian\GenDAO\GeradorBO\bin\Debug\Banco.dll
+D:\Sebastian\GenDAO\GeradorBO\bin\Debug\Library.dll
+D:\Sebastian\GenDAO\GeradorBO\bin\Debug\Library.pdb
+D:\Sebastian\GenDAO\GeradorBO\bin\Debug\Banco.pdb
+D:\Sebastian\GenDAO_Andi\GeradorBO\bin\Debug\GeradorBO.dll
+D:\Sebastian\GenDAO_Andi\GeradorBO\bin\Debug\GeradorBO.pdb
+D:\Sebastian\GenDAO_Andi\GeradorBO\bin\Debug\Banco.dll
+D:\Sebastian\GenDAO_Andi\GeradorBO\bin\Debug\Library.dll
+D:\Sebastian\GenDAO_Andi\GeradorBO\bin\Debug\Library.pdb
+D:\Sebastian\GenDAO_Andi\GeradorBO\bin\Debug\Banco.pdb
+D:\Sebastian\GenDAO_Andi\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+D:\Sebastian\GenDAO_Andi\GeradorBO\obj\Debug\GeradorBO.dll
+D:\Sebastian\GenDAO_Andi\GeradorBO\obj\Debug\GeradorBO.pdb
+D:\Arquivos\Fontes\gerador de Classes\gen_andi\GenDAO_Andi\GeradorBO\bin\Debug\GeradorBO.dll
+D:\Arquivos\Fontes\gerador de Classes\gen_andi\GenDAO_Andi\GeradorBO\bin\Debug\GeradorBO.pdb
+D:\Arquivos\Fontes\gerador de Classes\gen_andi\GenDAO_Andi\GeradorBO\bin\Debug\Banco.dll
+D:\Arquivos\Fontes\gerador de Classes\gen_andi\GenDAO_Andi\GeradorBO\bin\Debug\Library.dll
+D:\Arquivos\Fontes\gerador de Classes\gen_andi\GenDAO_Andi\GeradorBO\bin\Debug\Library.pdb
+D:\Arquivos\Fontes\gerador de Classes\gen_andi\GenDAO_Andi\GeradorBO\bin\Debug\Banco.pdb
+D:\Arquivos\Fontes\gerador de Classes\gen_andi\GenDAO_Andi\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+D:\Arquivos\Fontes\gerador de Classes\gen_andi\GenDAO_Andi\GeradorBO\obj\Debug\GeradorBO.dll
+D:\Arquivos\Fontes\gerador de Classes\gen_andi\GenDAO_Andi\GeradorBO\obj\Debug\GeradorBO.pdb
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\GeradorBO\bin\Debug\GeradorBO.dll
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\GeradorBO\bin\Debug\GeradorBO.pdb
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\GeradorBO\bin\Debug\Banco.dll
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\GeradorBO\bin\Debug\Library.dll
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\GeradorBO\bin\Debug\Banco.pdb
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\GeradorBO\bin\Debug\Library.pdb
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\GeradorBO\obj\Debug\GeradorBO.dll
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\GeradorBO\obj\Debug\GeradorBO.pdb
+C:\Anderson\GenDAO_Andi\GeradorBO\bin\Debug\GeradorBO.dll
+C:\Anderson\GenDAO_Andi\GeradorBO\bin\Debug\GeradorBO.pdb
+C:\Anderson\GenDAO_Andi\GeradorBO\bin\Debug\Banco.dll
+C:\Anderson\GenDAO_Andi\GeradorBO\bin\Debug\Library.dll
+C:\Anderson\GenDAO_Andi\GeradorBO\bin\Debug\Banco.pdb
+C:\Anderson\GenDAO_Andi\GeradorBO\bin\Debug\Library.pdb
+C:\Anderson\GenDAO_Andi\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+C:\Anderson\GenDAO_Andi\GeradorBO\obj\Debug\GeradorBO.dll
+C:\Anderson\GenDAO_Andi\GeradorBO\obj\Debug\GeradorBO.pdb
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\GeradorBO.dll
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\GeradorBO.pdb
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\Banco.dll
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\Library.dll
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\MySql.Data.dll
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\Banco.pdb
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\Library.pdb
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\obj\Debug\GeradorBO.dll
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\obj\Debug\GeradorBO.pdb
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\GeradorBO.dll
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\GeradorBO.pdb
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\Banco.dll
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\Library.dll
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\MySql.Data.dll
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\Banco.pdb
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\bin\Debug\Library.pdb
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\obj\Debug\GeradorBO.csprojResolveAssemblyReference.cache
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\obj\Debug\GeradorBO.dll
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\GeradorBO\obj\Debug\GeradorBO.pdb
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\bin\Debug\GeradorBO.dll
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\bin\Debug\GeradorBO.pdb
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\bin\Debug\Banco.dll
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\bin\Debug\Library.dll
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\bin\Debug\MySql.Data.dll
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\bin\Debug\Banco.pdb
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\bin\Debug\Library.pdb
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\obj\Debug\GeradorBO.csprojAssemblyReference.cache
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\obj\Debug\GeradorBO.csproj.CoreCompileInputs.cache
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\obj\Debug\GeradorBO.csproj.CopyComplete
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\obj\Debug\GeradorBO.dll
+C:\Users\Andi\Documents\GENDAO\GenDAO\GeradorBO\obj\Debug\GeradorBO.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\bin\Debug\GeradorBO.dll
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\bin\Debug\GeradorBO.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\bin\Debug\Banco.dll
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\bin\Debug\Library.dll
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\bin\Debug\MySql.Data.dll
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\bin\Debug\Banco.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\bin\Debug\Library.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\obj\Debug\GeradorBO.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\obj\Debug\GeradorBO.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\obj\Debug\GeradorBO.csproj.CopyComplete
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\obj\Debug\GeradorBO.dll
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\obj\Debug\GeradorBO.pdb

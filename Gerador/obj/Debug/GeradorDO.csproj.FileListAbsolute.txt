@@ -1,0 +1,46 @@
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Gerador\bin\Debug\Gerador.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Gerador\bin\Debug\Gerador.pdb
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Gerador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Gerador\obj\Debug\Gerador.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Gerador\obj\Debug\Gerador.pdb
+D:\Sebastian\GenDAO\Gerador\bin\Debug\Gerador.dll
+D:\Sebastian\GenDAO\Gerador\bin\Debug\Gerador.pdb
+D:\Sebastian\GenDAO\Gerador\obj\Debug\ResolveAssemblyReference.cache
+D:\Sebastian\GenDAO\Gerador\obj\Debug\Gerador.dll
+D:\Sebastian\GenDAO\Gerador\obj\Debug\Gerador.pdb
+D:\Sebastian\GenDAO_Andi\Gerador\bin\Debug\Gerador.dll
+D:\Sebastian\GenDAO_Andi\Gerador\bin\Debug\Gerador.pdb
+D:\Sebastian\GenDAO_Andi\Gerador\obj\Debug\ResolveAssemblyReference.cache
+D:\Sebastian\GenDAO_Andi\Gerador\obj\Debug\Gerador.dll
+D:\Sebastian\GenDAO_Andi\Gerador\obj\Debug\Gerador.pdb
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Gerador\bin\Debug\Gerador.dll
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Gerador\bin\Debug\Gerador.pdb
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Gerador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Gerador\obj\Debug\Gerador.dll
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Gerador\obj\Debug\Gerador.pdb
+C:\Anderson\GenDAO_Andi\Gerador\bin\Debug\Gerador.dll
+C:\Anderson\GenDAO_Andi\Gerador\bin\Debug\Gerador.pdb
+C:\Anderson\GenDAO_Andi\Gerador\obj\Debug\ResolveAssemblyReference.cache
+C:\Anderson\GenDAO_Andi\Gerador\obj\Debug\Gerador.dll
+C:\Anderson\GenDAO_Andi\Gerador\obj\Debug\Gerador.pdb
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Gerador\bin\Debug\Gerador.dll
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Gerador\bin\Debug\Gerador.pdb
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Gerador\obj\Debug\ResolveAssemblyReference.cache
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Gerador\obj\Debug\Gerador.dll
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Gerador\obj\Debug\Gerador.pdb
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\Gerador\bin\Debug\Gerador.dll
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\Gerador\bin\Debug\Gerador.pdb
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\Gerador\obj\Debug\Gerador.dll
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\Gerador\obj\Debug\Gerador.pdb
+C:\Users\Andi\Documents\GENDAO\GenDAO\Gerador\bin\Debug\Gerador.dll
+C:\Users\Andi\Documents\GENDAO\GenDAO\Gerador\bin\Debug\Gerador.pdb
+C:\Users\Andi\Documents\GENDAO\GenDAO\Gerador\obj\Debug\GeradorDO.csprojAssemblyReference.cache
+C:\Users\Andi\Documents\GENDAO\GenDAO\Gerador\obj\Debug\GeradorDO.csproj.CoreCompileInputs.cache
+C:\Users\Andi\Documents\GENDAO\GenDAO\Gerador\obj\Debug\Gerador.dll
+C:\Users\Andi\Documents\GENDAO\GenDAO\Gerador\obj\Debug\Gerador.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Gerador\bin\Debug\Gerador.dll
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Gerador\bin\Debug\Gerador.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Gerador\obj\Debug\GeradorDO.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Gerador\obj\Debug\GeradorDO.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Gerador\obj\Debug\Gerador.dll
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Gerador\obj\Debug\Gerador.pdb

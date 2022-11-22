@@ -1,0 +1,53 @@
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Banco\bin\Debug\Banco.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Banco\bin\Debug\Banco.pdb
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Banco\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Banco\obj\Debug\Banco.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Banco\obj\Debug\Banco.pdb
+D:\Sebastian\GenDAO\Banco\bin\Debug\Banco.dll
+D:\Sebastian\GenDAO\Banco\bin\Debug\Banco.pdb
+D:\Sebastian\GenDAO\Banco\obj\Debug\ResolveAssemblyReference.cache
+D:\Sebastian\GenDAO\Banco\obj\Debug\Banco.dll
+D:\Sebastian\GenDAO\Banco\obj\Debug\Banco.pdb
+D:\Sebastian\GenDAO_Andi\Banco\bin\Debug\Banco.dll
+D:\Sebastian\GenDAO_Andi\Banco\bin\Debug\Banco.pdb
+D:\Sebastian\GenDAO_Andi\Banco\obj\Debug\ResolveAssemblyReference.cache
+D:\Sebastian\GenDAO_Andi\Banco\obj\Debug\Banco.dll
+D:\Sebastian\GenDAO_Andi\Banco\obj\Debug\Banco.pdb
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Banco\bin\Debug\Banco.dll
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Banco\bin\Debug\Banco.pdb
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Banco\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Banco\obj\Debug\Banco.dll
+C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Banco\obj\Debug\Banco.pdb
+C:\Anderson\GenDAO_Andi\Banco\bin\Debug\Banco.dll
+C:\Anderson\GenDAO_Andi\Banco\bin\Debug\Banco.pdb
+C:\Anderson\GenDAO_Andi\Banco\obj\Debug\ResolveAssemblyReference.cache
+C:\Anderson\GenDAO_Andi\Banco\obj\Debug\Banco.dll
+C:\Anderson\GenDAO_Andi\Banco\obj\Debug\Banco.pdb
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Banco\bin\Debug\Banco.dll
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Banco\bin\Debug\Banco.pdb
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Banco\bin\Debug\MySql.Data.dll
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Banco\obj\Debug\ResolveAssemblyReference.cache
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Banco\obj\Debug\Banco.dll
+D:\Unidade Z 2\PROJETOS\GenDAO_Andi_ATUAL2\Banco\obj\Debug\Banco.pdb
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\Banco\bin\Debug\Banco.dll
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\Banco\bin\Debug\Banco.pdb
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\Banco\bin\Debug\MySql.Data.dll
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\Banco\obj\Debug\Banco.dll
+D:\Unidade Z\PROJETOS\GenDAO_Andi_ATUAL2\Banco\obj\Debug\Banco.pdb
+C:\Users\Andi\Documents\GENDAO\GenDAO\Banco\bin\Debug\Banco.dll
+C:\Users\Andi\Documents\GENDAO\GenDAO\Banco\bin\Debug\Banco.pdb
+C:\Users\Andi\Documents\GENDAO\GenDAO\Banco\bin\Debug\MySql.Data.dll
+C:\Users\Andi\Documents\GENDAO\GenDAO\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Andi\Documents\GENDAO\GenDAO\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Andi\Documents\GENDAO\GenDAO\Banco\obj\Debug\Banco.csproj.CopyComplete
+C:\Users\Andi\Documents\GENDAO\GenDAO\Banco\obj\Debug\Banco.dll
+C:\Users\Andi\Documents\GENDAO\GenDAO\Banco\obj\Debug\Banco.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\bin\Debug\Banco.dll
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\bin\Debug\Banco.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\bin\Debug\MySql.Data.dll
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\obj\Debug\Banco.csproj.CopyComplete
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\obj\Debug\Banco.dll
+C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\obj\Debug\Banco.pdb

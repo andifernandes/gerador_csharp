@@ -1,0 +1,10 @@
+bin\Debug\Banco.dll
+bin\Debug\Banco.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Banco.dll
+obj\Debug\Banco.pdb
+bin\Release\Banco.dll
+bin\Release\Banco.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Banco.dll
+obj\Release\Banco.pdb

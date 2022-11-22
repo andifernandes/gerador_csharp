@@ -1,0 +1,2 @@
+C:\Anderson\GenDAO_Andi\Gen\obj\Debug\Gen.exe
+C:\Anderson\GenDAO_Andi\Gen\obj\Debug\Gen.pdb

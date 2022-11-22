@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Gen">
+</Property><Property Name="Solution File" Value="C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Gen.sln">
+</Property><Property Name="User Options File" Value="C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Gen.suo">
+</Property><Property Name="Date" Value="sexta-feira, 4 de março de 2011">
+</Property><Property Name="Time" Value="13:20">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Gen.sln" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Gen.suo" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen.suo">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Gen.csproj" Description="Project file successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Gen.csproj">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\GeradorDAO.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\GeradorDAO.cs">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\GeradorDAO.Designer.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\GeradorDAO.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Principal.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Principal.cs">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Principal.Designer.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Principal.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Program.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Program.cs">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Sobre.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Sobre.cs">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Sobre.Designer.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Sobre.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Properties\Settings.settings" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\img\edge.gif" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\img\edge.gif">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\img\manual.gif" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\img\manual.gif">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\img\help.gif" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\img\help.gif">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\modeloBO.txt" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\modeloBO.txt">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\modeloDO.txt" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\modeloDO.txt">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\modeloVO.txt" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\modeloVO.txt">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\GeradorDAO.resx" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\GeradorDAO.resx">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Principal.resx" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Principal.resx">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Properties\Resources.resx" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Sobre.resx" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gen\Sobre.resx">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Gen.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Gen" Source="Gen\Gen.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GeradorDO" Source="Gerador\GeradorDO.csproj" Description="Project file successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gerador\GeradorDO.csproj">
+</Event><Event ErrorLevel="0" Project="GeradorDO" Source="Gerador\MySQLDO.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gerador\MySQLDO.cs">
+</Event><Event ErrorLevel="0" Project="GeradorDO" Source="Gerador\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gerador\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GeradorDO" Source="Gerador\SQLServerDO.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Gerador\SQLServerDO.cs">
+</Event><Event ErrorLevel="0" Project="GeradorDO" Source="Gerador\GeradorDO.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GeradorDO" Source="Gerador\GeradorDO.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GeradorVO" Source="GeradorVO\GeradorVO.csproj" Description="Project file successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\GeradorVO\GeradorVO.csproj">
+</Event><Event ErrorLevel="0" Project="GeradorVO" Source="GeradorVO\MySQLVO.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\GeradorVO\MySQLVO.cs">
+</Event><Event ErrorLevel="0" Project="GeradorVO" Source="GeradorVO\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\GeradorVO\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GeradorVO" Source="GeradorVO\SQLServerVO.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\GeradorVO\SQLServerVO.cs">
+</Event><Event ErrorLevel="0" Project="GeradorVO" Source="GeradorVO\GeradorVO.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GeradorVO" Source="GeradorVO\GeradorVO.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Banco" Source="Banco\Banco.csproj" Description="Project file successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Banco\Banco.csproj">
+</Event><Event ErrorLevel="0" Project="Banco" Source="Banco\MySQL.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Banco\MySQL.cs">
+</Event><Event ErrorLevel="0" Project="Banco" Source="Banco\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Banco\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Banco" Source="Banco\SQServer.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Banco\SQServer.cs">
+</Event><Event ErrorLevel="0" Project="Banco" Source="Banco\Banco.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Banco" Source="Banco\Banco.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GeradorBO" Source="GeradorBO\GeradorBO.csproj" Description="Project file successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\GeradorBO\GeradorBO.csproj">
+</Event><Event ErrorLevel="0" Project="GeradorBO" Source="GeradorBO\MySQLBO.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\GeradorBO\MySQLBO.cs">
+</Event><Event ErrorLevel="0" Project="GeradorBO" Source="GeradorBO\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\GeradorBO\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GeradorBO" Source="GeradorBO\SQLServerBO.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\GeradorBO\SQLServerBO.cs">
+</Event><Event ErrorLevel="0" Project="GeradorBO" Source="GeradorBO\GeradorBO.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GeradorBO" Source="GeradorBO\GeradorBO.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library\Library.csproj" Description="Project file successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Library\Library.csproj">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library\Library.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Library\Library.cs">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\afernandes.SEBASTIAN\Desktop\GenDAO_Andi\Backup\Library\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library\Library.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Library" Source="Library\Library.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Gen.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Gen.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Gen.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GeradorDO" Source="Gerador\GeradorDO.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GeradorVO" Source="GeradorVO\GeradorVO.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Banco" Source="Banco\Banco.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GeradorBO" Source="GeradorBO\GeradorBO.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library\Library.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
