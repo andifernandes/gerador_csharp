@@ -49,3 +49,9 @@ C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Library\obj\Debug\Library.cspro
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Library\obj\Debug\Library.dll
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Library\obj\Debug\Library.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Library\bin\Debug\Library.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Library\bin\Debug\Library.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Library\obj\Debug\Library.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Library\obj\Debug\Library.pdb

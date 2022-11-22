@@ -44,3 +44,9 @@ C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Gerador\obj\Debug\GeradorDO.csp
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Gerador\obj\Debug\GeradorDO.csproj.CoreCompileInputs.cache
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Gerador\obj\Debug\Gerador.dll
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Gerador\obj\Debug\Gerador.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Gerador\bin\Debug\Gerador.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Gerador\bin\Debug\Gerador.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Gerador\obj\Debug\GeradorDO.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Gerador\obj\Debug\GeradorDO.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Gerador\obj\Debug\Gerador.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Gerador\obj\Debug\Gerador.pdb

@@ -96,3 +96,15 @@ C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\obj\Debug\GeradorBO.c
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\obj\Debug\GeradorBO.csproj.CopyComplete
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\obj\Debug\GeradorBO.dll
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\GeradorBO\obj\Debug\GeradorBO.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\bin\Debug\GeradorBO.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\bin\Debug\GeradorBO.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\bin\Debug\Banco.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\bin\Debug\Library.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\bin\Debug\MySql.Data.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\bin\Debug\Banco.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\bin\Debug\Library.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\obj\Debug\GeradorBO.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\obj\Debug\GeradorBO.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\obj\Debug\GeradorBO.csproj.CopyComplete
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\obj\Debug\GeradorBO.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\GeradorBO\obj\Debug\GeradorBO.pdb

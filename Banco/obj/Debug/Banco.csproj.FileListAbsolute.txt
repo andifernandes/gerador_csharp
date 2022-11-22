@@ -51,3 +51,11 @@ C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\obj\Debug\Banco.csproj.Co
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\obj\Debug\Banco.csproj.CopyComplete
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\obj\Debug\Banco.dll
 C:\Users\ander\OneDrive\Área de Trabalho\GenDAO\Banco\obj\Debug\Banco.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Banco\bin\Debug\Banco.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Banco\bin\Debug\Banco.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Banco\bin\Debug\MySql.Data.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Banco\obj\Debug\Banco.csproj.CopyComplete
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Banco\obj\Debug\Banco.dll
+C:\Users\ander\OneDrive\Área de Trabalho\gerador_csharp\Banco\obj\Debug\Banco.pdb
